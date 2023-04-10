@@ -1,4 +1,4 @@
-package Assignment6_000906029;
+package inhabitants-of-foon;
 
 /**
  * Runner Class
