@@ -1,4 +1,4 @@
-package Assignment6_000906029;
+package inhabitants-of-foon;
 
 /**
  * The Infantry class extends the Orc class and contains the same methods it
