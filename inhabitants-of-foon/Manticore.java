@@ -1,4 +1,4 @@
-package Assignment6_000906029;
+package inhabitants-of-foon;
 
 /**
  * The Manticore class extends the Monster class and contains a modified attack
