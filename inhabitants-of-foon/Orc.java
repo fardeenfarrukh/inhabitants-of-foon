@@ -1,4 +1,4 @@
-package Assignment6_000906029;
+package inhabitants-of-foon;
 
 /**
  * The Orc class extends the Monster class. The Orc class is also a super class
